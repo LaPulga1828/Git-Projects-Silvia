@@ -78,9 +78,33 @@ Cada historia tiene sub-tareas asignadas y responsables definidos.
 
 ---
 
-## 📷 Capturas
+## 📷 Capturas de Evolucion del repositorio del Proyecto
 
-Puedes agregar imágenes del diseño final y estructura.
+
+![proyects](./img/3.jpg)
+![Proyecto](./img/2.jpg)
+![Proyecto](./img/1.jpg)
+![Proyecto](./img/4.jpg)
+![Proyecto](./img/5.png)
+![Proyecto](./img/6.png)
+![Proyecto](./img/4.jpg)
+![Proyecto](./img/7.jpg)
+
+![proyecto](./img/8.png)
+
+
+---
+
+---
+
+## 📷 Capturas del Proyecto
+
+Imágenes del diseño final y estructura.
+![proyects](./img/12.png)
+![Proyecto](./img/13.png)
+![Proyecto](./img/14.png)
+![Proyecto](./img/15.jpg)
+
 
 ---
 
